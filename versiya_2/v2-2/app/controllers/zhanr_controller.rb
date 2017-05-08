@@ -1,2 +1,0 @@
-class ZhanrController < ApplicationController
-end
