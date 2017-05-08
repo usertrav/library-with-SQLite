@@ -1,2 +1,0 @@
-class Kritic < ApplicationRecord
-end
